@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/mrsterner?template=classic&base.community=0&base.metadata=0&languages=1&config.timezone=Europe%2FStockholm)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRSTERNER)](https://github.com/anuraghazra/github-readme-stats)
