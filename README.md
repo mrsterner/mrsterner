@@ -1,3 +1,3 @@
-![GitHub Stats](https://github.com/mrsterner/github-stats/blob/generated/overview.svg)
+![GitHub Statistics](https://raw.githubusercontent.com/mrsterner/github-stats/generated/overview.svg#gh-dark-mode-only)
 
-![Languages](https://github.com/mrsterner/github-stats/blob/generated/languages.svg)
+![GitHub Languages](https://raw.githubusercontent.com/mrsterner/github-stats/generated/languages.svg#gh-dark-mode-only)
