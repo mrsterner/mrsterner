@@ -1,3 +1,3 @@
-![mrsterner's github stats](https://github-stats-extended.vercel.app/api?username=mrsterner&show_icons=true&theme=radical)
+![GitHub Stats](https://github.com/mrsterner/github-stats/blob/generated/overview.svg)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mrsterner&layout=compact&theme=radical)](https://github.com/mrsterner)
+![Languages](https://github.com/mrsterner/github-stats/blob/generated/languages.svg)
